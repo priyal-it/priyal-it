@@ -1,4 +1,4 @@
-## About Me
+### About Me
 Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersecurity and data science. Sometimes I find coding interesting.
 
 ### Socials
