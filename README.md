@@ -17,9 +17,6 @@ Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyal-it&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyal-it&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyal-it&theme=darcula&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=priyal-it&icon=0&color=4)](https://visitcount.itsvg.in)
 
