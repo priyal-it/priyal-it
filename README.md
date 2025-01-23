@@ -20,9 +20,6 @@ Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersec
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=priyal-it&theme=darcula&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyal-it&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=priyal-it&icon=0&color=4)](https://visitcount.itsvg.in)
 
