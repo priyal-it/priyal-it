@@ -12,12 +12,15 @@ Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersec
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=priyal-it&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyal-it&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyal-it&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=priyal-it&theme=darcula&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=priyal-it&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
