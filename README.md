@@ -13,7 +13,7 @@ Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersec
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/jinja2-%23B41717.svg?style=plastic&logo=jinja&logoColor=white)
 ![PyHTML](https://img.shields.io/badge/pyhtml-%230092CC.svg?style=plastic&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=plastic&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
