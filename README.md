@@ -1,6 +1,5 @@
 ### 💫 About Me:
-Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersecurity and data science. Sometimes I find coding interesting.
-
+Hi, it's Priyal here. I'm a Computer Science student with a passion for cybersecurity and data science.
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyal-p-439595322) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pariupatel) 
 
